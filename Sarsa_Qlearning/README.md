@@ -3,4 +3,4 @@ for a reinforcement learning problem in which our agent, which is placed in a gr
 environment tries to reach a goal state by taking actions (left, right, up or down) starting from
 a given start state. The objective of the agent is to maximize its expected cumulative reward.
 
-Please refer to the file [client/agent.py](Sarsa_Qlearning/client/agent.py) for the implementation of the algorithms
+Please refer to the file [client/agent.py](client/agent.py) for the implementation of the algorithms
